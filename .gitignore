@@ -1,0 +1,19 @@
+# Dependencies
+/node_modules
+
+# Environment variables
+.env
+
+# Logs
+logs
+*.log
+
+# Compiled output
+dist/
+build/
+
+# IDE / Editor settings
+.vscode/
+.idea/
+*.swp
+*.swo

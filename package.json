@@ -1,0 +1,36 @@
+{
+  "name": "week7-express-crud-jwt",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "express",
+    "mysql"
+  ],
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "author": "Alda Dwi Aprisagita",
+  "type": "commonjs",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mysql2": "^3.15.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aldaaprisagita/week7-express-crud-jwt.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aldaaprisagita/week7-express-crud-jwt/issues"
+  },
+  "homepage": "https://github.com/aldaaprisagita/week7-express-crud-jwt#readme"
+}
